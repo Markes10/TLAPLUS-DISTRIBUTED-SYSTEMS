@@ -1,4 +1,4 @@
-# 35 - Formally Verified Raft Consensus Protocol (TLA+)
+# Formally Verified Raft Consensus Protocol (TLA+)
 
 ## Executive Overview
 A formal specification and mathematical safety verification of the **Raft Distributed Consensus Protocol** written in **TLA+ (Temporal Logic of Actions)** by Leslie Lamport. It proves through exhaustive **TLC model checking** that leader election safety holds across all terms: **at most one leader can be elected in any given term**.
