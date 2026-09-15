@@ -1,0 +1,8 @@
+{
+  "id": "35",
+  "name": "35-tlaplus-distributed-systems",
+  "title": "Formally Verified Distributed Systems Platform",
+  "language": "TLA+",
+  "domain": "Formal Methods & Distributed Consensus Specifications",
+  "description": "Formal TLA+ mathematical specification and TLC model checking for Raft consensus leader election and distributed state machine replication safety invariants."
+}
